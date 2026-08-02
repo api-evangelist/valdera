@@ -1,0 +1,28 @@
+# Valdera
+
+> Valdera is the AI-powered sourcing and procurement platform for chemicals, ingredients, and raw materials, matching buyers with vetted global suppliers (400K+ suppliers, 1.7M+ unique chemistries). It is a web platform for buyers and suppliers, not an API provider: Valdera publishes no public developer portal, API documentation, or client SDKs.
+
+## Company
+
+- [Website](https://www.valdera.com/): The digital sourcing platform for chemicals and raw materials
+- [About](https://www.valdera.com/about/): Company story and team
+- [For Buyers](https://www.valdera.com/for-buyers/): Supplier discovery, RFQs, and procurement workflow for buyers
+- [For Suppliers](https://www.valdera.com/for-suppliers/): Inbound RFQs and order fulfillment for suppliers
+- [Customers](https://www.valdera.com/customers/): Customer case studies
+- [Blog / Resources](https://www.valdera.com/resources/): Product and industry articles
+- [Status](https://status.valdera.io/): Valdera platform status page
+- [Security](https://www.valdera.com/security/): Security practices (GCP, TLS in transit, encryption at rest, IAM)
+- [Terms of Service](https://www.valdera.com/terms-of-service/)
+- [Privacy Policy](https://www.valdera.com/privacy-policy/)
+- [Careers](https://jobs.lever.co/valdera)
+
+## Platform
+
+- [Log in](https://prod.valdera.com/login)
+- [Sign up](https://prod.valdera.com/signup)
+
+## Catalog
+
+- [APIs.json profile](https://raw.githubusercontent.com/api-evangelist/valdera/refs/heads/main/apis.yml): API Evangelist network profile for Valdera
+
+<!-- generated: 2026-07-21 | method: generated | source: apis.yml + www.valdera.com -->

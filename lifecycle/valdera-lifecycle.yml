@@ -1,0 +1,13 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.valdera.com/
+status_page: https://status.valdera.io/
+notes: >-
+  Valdera links a public status page from its website footer (status.valdera.com,
+  which redirects to status.valdera.io, titled "Valdera Status", with live monitor
+  and event feeds). Valdera publishes no public API, so no versioning or
+  deprecation policy, SLA, or Sunset/Deprecation header documentation was found.
+versioning: null
+deprecation: null
+sla: null
+deprecated_operations: []

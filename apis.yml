@@ -1,9 +1,26 @@
 aid: valdera
 name: Valdera
-description: 'Valdera is a company surfaced as a portfolio company of index-ventures and added to the
-  API Evangelist network as a stub for enrichment. Sector: business-applications. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: >-
+  Valdera is the AI-powered sourcing and procurement platform for chemicals,
+  ingredients, and raw materials, matching buyers with vetted global suppliers
+  across a database of 400K+ suppliers and 1.7M+ unique chemistries. Buyers get
+  supplier discovery, RFQs, and negotiation in one place; suppliers receive
+  relevant inbound RFQs and fulfill orders on the platform. Valdera is a web
+  platform, not an API provider — it publishes no public developer portal, API
+  documentation, or SDKs.
 url: https://raw.githubusercontent.com/api-evangelist/valdera/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://valderacms.wpenginepowered.com/wp-content/uploads/2024/09/opengraph-valdera-1024x538.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +29,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Business Applications
+- Chemicals
+- Raw Materials
+- Procurement
+- Sourcing
+- Supply Chain
+- Manufacturing
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +48,36 @@ maintainers:
 common:
 - type: Website
   url: https://www.valdera.com/
+- type: Blog
+  url: https://www.valdera.com/resources/
+- type: PrivacyPolicy
+  url: https://www.valdera.com/privacy-policy/
+- type: TermsOfService
+  url: https://www.valdera.com/terms-of-service/
+- type: SignUp
+  url: https://prod.valdera.com/signup
+- type: Login
+  url: https://prod.valdera.com/login
+- type: StatusPage
+  url: https://status.valdera.io/
+- type: GitHubOrganization
+  url: https://github.com/Valdera-Inc
+- type: Security
+  url: https://www.valdera.com/security/
+- type: SecurityTxt
+  url: well-known/valdera-security.txt
+- type: WellKnown
+  url: well-known/valdera-well-known.yml
+- type: VulnerabilityDisclosure
+  url: security/valdera-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/valdera-domain-security.yml
+- type: Lifecycle
+  url: lifecycle/valdera-lifecycle.yml
+- type: LLMsTxt
+  url: llms/valdera-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 6
+  pass: local-v1

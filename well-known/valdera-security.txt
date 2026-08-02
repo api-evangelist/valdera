@@ -1,0 +1,3 @@
+Contact: mailto:security@valdera.com
+Expires: 2030-07-10T00:00:00Z
+Preferred-Languages: en
